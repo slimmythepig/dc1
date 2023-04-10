@@ -79,7 +79,6 @@ plt.xlabel("time", fontsize=15)
 plt.ylabel("tweets (normalized)", fontsize=15)
 plt.scatter(q2, tweets2, color='deepskyblue', label="tweets")
 plt.plot(q2, fit(q2, a, b), color='mediumblue', linestyle='solid', label="linear fit")
-plt.grid(linewidth=0.2)
 plt.legend(fontsize=13)
 plt.savefig("fitting.pdf", bbox_inches = "tight")
 
