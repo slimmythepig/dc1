@@ -1,5 +1,7 @@
+this repository contains all the code used to write [this analysis](https://drive.google.com/file/d/1AUPm2EpR4CbOMo7olE8f5nmJygLP2q2W/view?usp=sharing). 
+
 * *scraping.py* is for Twitter scraping
-* *volume_analysis.py* uses *2013-2021.csv* and *tw_users.csv* data set
+* *volume_analysis.py* uses *2013-2021.csv* and *tw_users.csv* data sets
 * *correlation_analysis.py* uses *cc.csv*, *gw.csv*, *gt.csv* and *f4f.csv* data sets
 
 data have been collected with the following queries:
