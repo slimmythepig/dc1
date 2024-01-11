@@ -1,4 +1,4 @@
-this repository contains all the code used to write [this analysis](https://drive.google.com/file/d/1CdVDoF-p2OSMp-ZQxtt8mqATKKeekffz/view?usp=drive_link](https://drive.google.com/file/d/1CdVDoF-p2OSMp-ZQxtt8mqATKKeekffz/view?usp=sharing)). 
+this repository contains all the code used to write the analysis in 'dc1.pdf' 
 
 * *scraping.py* is for Twitter scraping
 * *volume_analysis.py* uses *2013-2021.csv* and *tw_users.csv* data sets
